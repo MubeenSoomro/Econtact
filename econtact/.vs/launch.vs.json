@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "Econtact.Designer.cs",
+      "project": "econtact\\econtact\\Econtact.Designer.cs",
+      "projectTarget": ""
+    },
+    {
+      "type": "default",
+      "project": "econtact\\econtact\\Econtact.Designer.cs",
+      "projectTarget": "",
+      "name": "Econtact.Designer.cs(1)"
+    }
+  ]
+}
